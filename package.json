@@ -2,10 +2,7 @@
   "name": "labynode",
   "version": "1.0.0",
   "description": "a nodejs labymod api",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "labynode.js",
   "author": "lyxt",
   "license": "ISC",
   "dependencies": {
