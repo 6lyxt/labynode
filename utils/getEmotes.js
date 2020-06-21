@@ -8,7 +8,6 @@ module.exports = {
             var reponseJsoned = JSON.parse(responseStringed)
             var finalstr = "";
             for (var i = 0; i < reponseJsoned.length; i++) {
-                console.log(reponseJsoned[i])
                 switch (reponseJsoned[i]) {
                     case 2:
                         finalstr += "Backflip ";
