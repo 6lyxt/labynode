@@ -18,6 +18,7 @@ You can simply install it via `npm i labynode --save`.
 ## Documentation
  + getStatus(callback) - gets the labymod server status
  + getCosmetics(uuid, callback) - gets the cosmetics of a player
+ + getEmotes(uuid, callback) - gets the emotes of a player
  
 ## Example
 This example would get the Server status of LabyMod.
