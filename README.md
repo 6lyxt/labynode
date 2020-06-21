@@ -6,6 +6,7 @@ labymod nodejs api
  + getCosmetics(uuid, callback) - gets the cosmetics of a player
  
 ## Example
+This example would get the Server status of LabyMod.
 ```
 labynode.getStatus(function(status){
    console.log(status);
