@@ -27,10 +27,19 @@ You can simply install it via `npm i labynode --save`.
  + lyxt
  + CA_CrazyS1TV
  
-## Example
+## Examples
 This example would get the Server status of LabyMod.
 ```
 labynode.getStatus(function(status){
    console.log(status);
 })
 ```
+
+This one would get you the cosmetics of an user.
+```
+labynode.getCosmetics("03094341-36dd-4093-9889-a7a4cc02f108, function(cosmetics){
+    console.log(cosmetics);
+ })
+ ```
+
+
