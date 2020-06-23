@@ -23,9 +23,9 @@ You can simply install it via `npm i labynode --save`.
  + getRoles(uuid, callback) - gets the players roles (e.a developer, moderator)
  + getStickers(uuid, callback) - gets the stickerpacks of a player
 
- ## Credits
-lyxt
-CA_CrazyS1TV
+## Credits
+ + lyxt
+ + CA_CrazyS1TV
  
 ## Example
 This example would get the Server status of LabyMod.
