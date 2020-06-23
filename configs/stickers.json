@@ -1,0 +1,26 @@
+[
+  {
+    "pack_id": 1,
+    "pack_name": "Halloween-Pack"
+  },
+  {
+    "pack_id": 2,
+    "pack_name": "Christmas-Pack"
+  },
+  {
+    "pack_id": 3,
+    "pack_name": "Reved-Pack"
+  },
+  {
+    "pack_id": 4,
+    "pack_name": "Valentine's Day"
+  },
+  {
+    "pack_id": 5,
+    "pack_name": "Stay-Safe-Pack"
+  },
+  {
+    "pack_id": 6,
+    "pack_name": "5 Years LabyMod"
+  }
+]

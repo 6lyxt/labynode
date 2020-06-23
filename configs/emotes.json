@@ -1,0 +1,617 @@
+[
+  {
+    "emote_id": 5,
+    "name": "Bow thanks",
+    "rare": 0
+  },
+  {
+    "emote_id": 6,
+    "name": "Hype",
+    "rare": 0
+  },
+  {
+    "emote_id": 2,
+    "name": "Backflip",
+    "rare": 1
+  },
+  {
+    "emote_id": 3,
+    "name": "Dab",
+    "rare": 1
+  },
+  {
+    "emote_id": 4,
+    "name": "Hello",
+    "rare": 0
+  },
+  {
+    "emote_id": 7,
+    "name": "Tryingtofly",
+    "rare": 0
+  },
+  {
+    "emote_id": 19,
+    "name": "Split",
+    "rare": 0
+  },
+  {
+    "emote_id": 11,
+    "name": "Zombie",
+    "rare": 0
+  },
+  {
+    "emote_id": 13,
+    "name": "Hula Hoop",
+    "rare": 0
+  },
+  {
+    "emote_id": 14,
+    "name": "Calling",
+    "rare": 0
+  },
+  {
+    "emote_id": 15,
+    "name": "Facepalm",
+    "rare": 0
+  },
+  {
+    "emote_id": 18,
+    "name": "Brush your shoulders",
+    "rare": 0
+  },
+  {
+    "emote_id": 20,
+    "name": "Salute",
+    "rare": 0
+  },
+  {
+    "emote_id": 22,
+    "name": "Balarina",
+    "rare": 0
+  },
+  {
+    "emote_id": 31,
+    "name": "Handstand",
+    "rare": 1
+  },
+  {
+    "emote_id": 33,
+    "name": "Holy",
+    "rare": 0
+  },
+  {
+    "emote_id": 34,
+    "name": "Waveover",
+    "rare": 0
+  },
+  {
+    "emote_id": 32,
+    "name": "Helicopter",
+    "rare": 1
+  },
+  {
+    "emote_id": 37,
+    "name": "Karate",
+    "rare": 0
+  },
+  {
+    "emote_id": 38,
+    "name": "Moonwalk",
+    "rare": 1
+  },
+  {
+    "emote_id": 36,
+    "name": "Deeper deeper",
+    "rare": 0
+  },
+  {
+    "emote_id": 40,
+    "name": "Freezing",
+    "rare": 0
+  },
+  {
+    "emote_id": 43,
+    "name": "Turtle",
+    "rare": 1
+  },
+  {
+    "emote_id": 46,
+    "name": "Infinity Dab",
+    "rare": 0
+  },
+  {
+    "emote_id": 47,
+    "name": "Chicken",
+    "rare": 0
+  },
+  {
+    "emote_id": 41,
+    "name": "Jubilation",
+    "rare": 1
+  },
+  {
+    "emote_id": 45,
+    "name": "Headspin",
+    "rare": 1
+  },
+  {
+    "emote_id": 50,
+    "name": "The mega thrust",
+    "rare": 0
+  },
+  {
+    "emote_id": 51,
+    "name": "The cleaner",
+    "rare": 0
+  },
+  {
+    "emote_id": 52,
+    "name": "Bridge",
+    "rare": 0
+  },
+  {
+    "emote_id": 54,
+    "name": "Rurik",
+    "rare": 0
+  },
+  {
+    "emote_id": 53,
+    "name": "Milk the cow",
+    "rare": 0
+  },
+  {
+    "emote_id": 55,
+    "name": "Wave",
+    "rare": 0
+  },
+  {
+    "emote_id": 57,
+    "name": "Money rain",
+    "rare": 1
+  },
+  {
+    "emote_id": 60,
+    "name": "Frightening",
+    "rare": 0
+  },
+  {
+    "emote_id": 49,
+    "name": "The Floss",
+    "rare": 1
+  },
+  {
+    "emote_id": 61,
+    "name": "Sad",
+    "rare": 0
+  },
+  {
+    "emote_id": 62,
+    "name": "Air guitar",
+    "rare": 0
+  },
+  {
+    "emote_id": 63,
+    "name": "Witch",
+    "rare": 0
+  },
+  {
+    "emote_id": 59,
+    "name": "The pointer",
+    "rare": 0
+  },
+  {
+    "emote_id": 69,
+    "name": "Left",
+    "rare": 0
+  },
+  {
+    "emote_id": 70,
+    "name": "Right",
+    "rare": 0
+  },
+  {
+    "emote_id": 74,
+    "name": "Buuuh",
+    "rare": 0
+  },
+  {
+    "emote_id": 75,
+    "name": "Spitting bars",
+    "rare": 1
+  },
+  {
+    "emote_id": 76,
+    "name": "Count money",
+    "rare": 0
+  },
+  {
+    "emote_id": 113,
+    "name": "Levelup",
+    "rare": 0
+  },
+  {
+    "emote_id": 78,
+    "name": "Applause",
+    "rare": 0
+  },
+  {
+    "emote_id": 79,
+    "name": "Boxing",
+    "rare": 0
+  },
+  {
+    "emote_id": 83,
+    "name": "Shoot",
+    "rare": 0
+  },
+  {
+    "emote_id": 84,
+    "name": "The pointing man",
+    "rare": 0
+  },
+  {
+    "emote_id": 86,
+    "name": "Near the fall",
+    "rare": 0
+  },
+  {
+    "emote_id": 85,
+    "name": "Heart",
+    "rare": 0
+  },
+  {
+    "emote_id": 92,
+    "name": "Praise your item",
+    "rare": 0
+  },
+  {
+    "emote_id": 89,
+    "name": "Waiting",
+    "rare": 0
+  },
+  {
+    "emote_id": 93,
+    "name": "Look",
+    "rare": 0
+  },
+  {
+    "emote_id": 97,
+    "name": "I love you",
+    "rare": 0
+  },
+  {
+    "emote_id": 98,
+    "name": "Sarcastic clap",
+    "rare": 0
+  },
+  {
+    "emote_id": 101,
+    "name": "You",
+    "rare": 0
+  },
+  {
+    "emote_id": 105,
+    "name": "Head on wall",
+    "rare": 0
+  },
+  {
+    "emote_id": 112,
+    "name": "Balance",
+    "rare": 1
+  },
+  {
+    "emote_id": 8,
+    "name": "Infinity sit",
+    "rare": 1
+  },
+  {
+    "emote_id": 77,
+    "name": "Hug",
+    "rare": 0
+  },
+  {
+    "emote_id": 114,
+    "name": "Take the L",
+    "rare": 1
+  },
+  {
+    "emote_id": 122,
+    "name": "Airplane",
+    "rare": 0
+  },
+  {
+    "emote_id": 121,
+    "name": "My idol",
+    "rare": 0
+  },
+  {
+    "emote_id": 124,
+    "name": "Eagle",
+    "rare": 1
+  },
+  {
+    "emote_id": 126,
+    "name": "Job well done",
+    "rare": 0
+  },
+  {
+    "emote_id": 128,
+    "name": "Elephant",
+    "rare": 0
+  },
+  {
+    "emote_id": 131,
+    "name": "Eyes on you",
+    "rare": 0
+  },
+  {
+    "emote_id": 130,
+    "name": "Present",
+    "rare": 0
+  },
+  {
+    "emote_id": 133,
+    "name": "Bow down",
+    "rare": 0
+  },
+  {
+    "emote_id": 134,
+    "name": "Maneki-neko",
+    "rare": 0
+  },
+  {
+    "emote_id": 135,
+    "name": "Conductor",
+    "rare": 0
+  },
+  {
+    "emote_id": 137,
+    "name": "Snow Angel",
+    "rare": 1
+  },
+  {
+    "emote_id": 138,
+    "name": "Snowball",
+    "rare": 0
+  },
+  {
+    "emote_id": 136,
+    "name": "Didi challenge",
+    "rare": 0
+  },
+  {
+    "emote_id": 139,
+    "name": "Sprinkler",
+    "rare": 1
+  },
+  {
+    "emote_id": 140,
+    "name": "Calculated",
+    "rare": 0
+  },
+  {
+    "emote_id": 141,
+    "name": "One-armed handstand",
+    "rare": 1
+  },
+  {
+    "emote_id": 142,
+    "name": "Eat",
+    "rare": 0
+  },
+  {
+    "emote_id": 143,
+    "name": "Shy",
+    "rare": 0
+  },
+  {
+    "emote_id": 148,
+    "name": "Mindblow",
+    "rare": 0
+  },
+  {
+    "emote_id": 150,
+    "name": "T Pose",
+    "rare": 0
+  },
+  {
+    "emote_id": 149,
+    "name": "Fall",
+    "rare": 0
+  },
+  {
+    "emote_id": 145,
+    "name": "Sit-Ups",
+    "rare": 1
+  },
+  {
+    "emote_id": 146,
+    "name": "Breakdance",
+    "rare": 1
+  },
+  {
+    "emote_id": 154,
+    "name": "Backstroke",
+    "rare": 1
+  },
+  {
+    "emote_id": 153,
+    "name": "Jumping Jack",
+    "rare": 0
+  },
+  {
+    "emote_id": 157,
+    "name": "Look at fireworks",
+    "rare": 0
+  },
+  {
+    "emote_id": 156,
+    "name": "Ice-Hockey",
+    "rare": 0
+  },
+  {
+    "emote_id": 159,
+    "name": "Ice-Skating",
+    "rare": 0
+  },
+  {
+    "emote_id": 158,
+    "name": "Finish the tree",
+    "rare": 0
+  },
+  {
+    "emote_id": 162,
+    "name": "Ronaldo",
+    "rare": 1
+  },
+  {
+    "emote_id": 161,
+    "name": "Fancy Feet",
+    "rare": 0
+  },
+  {
+    "emote_id": 163,
+    "name": "True Heart",
+    "rare": 1
+  },
+  {
+    "emote_id": 164,
+    "name": "Pumpernickel",
+    "rare": 1
+  },
+  {
+    "emote_id": 167,
+    "name": "Open present",
+    "rare": 0
+  },
+  {
+    "emote_id": 166,
+    "name": "Baby Shark",
+    "rare": 0
+  },
+  {
+    "emote_id": 170,
+    "name": "Dj",
+    "rare": 1
+  },
+  {
+    "emote_id": 173,
+    "name": "Sneeze",
+    "rare": 0
+  },
+  {
+    "emote_id": 181,
+    "name": "Pati Patu",
+    "rare": 0
+  },
+  {
+    "emote_id": 178,
+    "name": "Cheerleader",
+    "rare": 1
+  },
+  {
+    "emote_id": 180,
+    "name": "Naruto Run",
+    "rare": 1
+  },
+  {
+    "emote_id": 185,
+    "name": "Fusion Right",
+    "rare": 0
+  },
+  {
+    "emote_id": 183,
+    "name": "Fusion Left",
+    "rare": 0
+  },
+  {
+    "emote_id": 187,
+    "name": "Breathless",
+    "rare": 0
+  },
+  {
+    "emote_id": 182,
+    "name": "Axe Swing",
+    "rare": 0
+  },
+  {
+    "emote_id": 189,
+    "name": "Genkidama",
+    "rare": 0
+  },
+  {
+    "emote_id": 184,
+    "name": "Fishing",
+    "rare": 0
+  },
+  {
+    "emote_id": 191,
+    "name": "Singer",
+    "rare": 0
+  },
+  {
+    "emote_id": 171,
+    "name": "Have to pee",
+    "rare": 0
+  },
+  {
+    "emote_id": 192,
+    "name": "Magikarp",
+    "rare": 1
+  },
+  {
+    "emote_id": 194,
+    "name": "Slap",
+    "rare": 0
+  },
+  {
+    "emote_id": 195,
+    "name": "Air kisses",
+    "rare": 0
+  },
+  {
+    "emote_id": 193,
+    "name": "Rage",
+    "rare": 0
+  },
+  {
+    "emote_id": 196,
+    "name": "Knockout",
+    "rare": 1
+  },
+  {
+    "emote_id": 198,
+    "name": "Jetpack",
+    "rare": 0
+  },
+  {
+    "emote_id": 197,
+    "name": "Matrix",
+    "rare": 1
+  },
+  {
+    "emote_id": 200,
+    "name": "Golf",
+    "rare": 0
+  },
+  {
+    "emote_id": 201,
+    "name": "Stadium wave",
+    "rare": 0
+  },
+  {
+    "emote_id": 202,
+    "name": "Kickboxer",
+    "rare": 1
+  },
+  {
+    "emote_id": 203,
+    "name": "Handshake",
+    "rare": 0
+  },
+  {
+    "emote_id": 204,
+    "name": "Cleaning the floor",
+    "rare": 0
+  }
+]
