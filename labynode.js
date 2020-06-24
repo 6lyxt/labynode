@@ -1,10 +1,10 @@
 const status = require('./util/getStatus');
 const emotes = require('./util/getEmotes');
 const dailyEmotes = require('./util/getDailyEmotes');
+const plusEmotes = require('./util/getPlusEmotes');
 const cosmetics = require('./util/getCosmetics');
 const roles = require('./util/getRoles');
 const stickers = require('./util/getStickers');
-
 
 module.exports = {
     getStatus: async function getStatus(callback) {
@@ -29,5 +29,9 @@ module.exports = {
 
     getDailyEmotes: async function getDailyEmotes(callback) {
         await dailyEmotes.getDailyEmotes(callback);
+    },
+
+    getPlusEmotes: async function getPlusEmotes(callback) {
+        await plusEmotes.getPlusEmotes(callback);
     }
 }
