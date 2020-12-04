@@ -1,5 +1,5 @@
 # labynode
-labymod nodejs api
+labymod nodejs wrapper
 
 ## Installation
 You can simply install it via `npm i labynode --save`.
