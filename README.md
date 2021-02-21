@@ -28,7 +28,7 @@ labynode.getStatus(function(status){
 
 This one would get you the cosmetics of an user.
 ```
-labynode.getCosmetics("03094341-36dd-4093-9889-a7a4cc02f108, function(cosmetics){
+labynode.getCosmetics("03094341-36dd-4093-9889-a7a4cc02f108", function(cosmetics){
     console.log(cosmetics);
  })
 ```
