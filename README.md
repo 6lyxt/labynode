@@ -1,3 +1,6 @@
+# Note: this repo is deprecated, and will not be maintained anymore. 
+Use this instead: https://github.com/masterjanic/node-labymod
+
 # labynode
 labymod nodejs wrapper
 
